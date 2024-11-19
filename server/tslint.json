@@ -1,0 +1,10 @@
+{
+  "extends": "tslint:recommended",
+  "defaultSeveaity": "warming",
+  "rules": {
+    "no-console": false
+  },
+  "jsRules": {
+    "no-console": false
+  }
+}
